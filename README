@@ -1,0 +1,9 @@
+APPROXIMATION HESSIAN 
+
+This neural network forecast time series analysis for sunspot data.
+
+Characteristics:
+
+- Fully connected
+- Sigmoide function 
+- No function implemented 
